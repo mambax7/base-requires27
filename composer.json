@@ -6,7 +6,6 @@
     "require": {
         "php": ">=7.4.0",
         "xoops/xmf": "^1.2.30",
-        "ircmaxell/password-compat": "^1.0.4",
         "geekwright/regdom": "^1.0.9",
         "symfony/polyfill-iconv": "^1.29.0",
         "symfony/polyfill-mbstring": "^1.29.0",
