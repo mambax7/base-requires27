@@ -6,11 +6,13 @@
     "require": {
         "php": ">=7.4.0",
         "xoops/xmf": "^1.2.30",
-        "geekwright/regdom": "^1.0.9",
         "symfony/polyfill-iconv": "^1.29.0",
         "symfony/polyfill-mbstring": "^1.29.0",
         "smarty/smarty": "^4.5.3",
         "boenrobot/money_format_polyfill": "^1.0.2",
         "smottt/wideimage": "^1.1.4"
+    },
+    "require-dev": {
+        "xoops/regdom": "^2.0.0-Alpha"
     }
 }
